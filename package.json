@@ -3,6 +3,7 @@
   "version": "1.0.10",
   "description": "Agular 5 : Social Login (Facebook, Google, Linkedin)",
   "scripts": {
+    "prepare":"npm run build",
     "build": "gulp build",
     "build:watch": "gulp",
     "docs": "npm run docs:build",
