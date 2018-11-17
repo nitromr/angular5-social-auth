@@ -1,7 +1,7 @@
 {
-  "name": "angular5-social-auth",
-  "version": "1.0.10",
-  "description": "Agular 5 : Social Login (Facebook, Google, Linkedin)",
+  "name": "angular5-social-auth2",
+  "version": "1.0.11",
+  "description": "Angular 5 : Social Login (Facebook, Google, Linkedin,Twitter)",
   "scripts": {
     "build": "gulp build",
     "build:watch": "gulp",
@@ -13,11 +13,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vov4ik08/angular5-social-auth"
+    "url": "https://github.com/nitromr/angular5-social-auth"
   },
   "author": {
-    "name": "Vladimir Boyko",
-    "email": "vov4ik08@gmail.com"
+    "name": "Kevin",
+    "email": "nitrom2018@gmail.com"
   },
   "keywords": [
     "angular",
@@ -34,6 +34,8 @@
     "angular5-social-auth",
     "social-authentication",
     "social-login",
+    "Twitter-authentication",
+    "Instagram-authentication",
     "google-authentication",
     "angular-google-authentication",
     "facebook-authentication",
@@ -43,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sabyasachibiswal/angular5-social-login/issues"
+    "url": "https://github.com/nitromr/angular5-social-auth/issues"
   },
   "devDependencies": {
     "@angular/common": "^4.0.0",

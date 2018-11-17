@@ -1,6 +1,5 @@
 Hello.
-This is module fork from https://github.com/sabyasachibiswal/angular5-social-login. Fixed bug from auth with Linkedin and update Readme.
-Social login api for Angular 5. Includes Facebook and Google login.  
+This is module fork from https://www.npmjs.com/package/angular5-social-auth  
 
 [AOT](https://angular.io/guide/aot-compiler) Compatible.
 
@@ -11,7 +10,7 @@ Social login api for Angular 5. Includes Facebook and Google login.
 ### Install via npm 
 
 ```sh
-npm install --save angular5-social-auth
+npm install --save angular5-social-auth2
 ```
 
 ### Import the module
