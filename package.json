@@ -3,6 +3,7 @@
   "version": "1.0.11",
   "description": "Angular 5 : Social Login (Facebook, Google, Linkedin,Twitter)",
   "scripts": {
+    "prepare":"npm run build",
     "build": "gulp build",
     "build:watch": "gulp",
     "docs": "npm run docs:build",
